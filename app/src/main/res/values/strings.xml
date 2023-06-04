@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyStore</string>
+    <string name="email">ririe0533@gmail.com</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="menu_home">Home</string>
+    <string name="about_page">Profile</string>
+    <string name="name">Noor Saputri</string>
+    <string name="profile">Profile</string>
+    <string name="share">Share</string>
+    <string name="des">Saya adalah seorang mahasiswi tingkat akhir dan mempunyai keinginan untuk mendirikan start up baru di kalimantan</string>
+    <string name="Search">search</string>
+    <string name="back">back</string>
+
+</resources>
